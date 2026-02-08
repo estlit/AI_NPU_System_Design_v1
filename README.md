@@ -38,12 +38,14 @@ To reproduce the results exactly as described in the book, we recommend the foll
 ---
 
 ## 📂 Repository Contents
-* `MNIST_System_Design.zip`: Contains all project files, including:
-  * **RTL Source Code** (Verilog)
-  * **Custom Compiler** (Python)
-  * **Testbenches** for Mass Verification
-  * **Excel: Systolic PE Array** for Matrix Multiplication Comparison (3×3)
-  * **Constraints** for Arty S7-25
+* `MNIST_System_Design.zip`: Comprehensive project package including:
+  * **Python: MNIST Training Script**: Full script for training with **60,000 samples**. Extracts optimized weights and biases for the NPU.
+  * **Custom Compiler (Python)**: Generates custom ISA-based machine code (`program.hex`) from high-level models.
+  * **RTL Source Code (Verilog)**: Core hardware implementation of CNN blocks including **Convolution (Conv), Pooling, Fully Connected (FC), and Argmax**. 
+  * **Excel: Systolic_matrix**: A reference sheet for PE Array operations and matrix multiplication logic.
+  * **Mass Verification Testbenches**: Automated environments to validate inference accuracy across 100+ MNIST samples.
+  * **Pre-processed Data (100 Samples)**: MNIST test dataset converted into HEX format for immediate RTL simulation and hardware verification.
+  * **Constraints (XDC)**: Physical pin-mapping and timing constraints for the **Digilent Arty S7-25**.
 
 ---
 
