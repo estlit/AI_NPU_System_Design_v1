@@ -42,6 +42,7 @@ To reproduce the results exactly as described in the book, we recommend the foll
   * **RTL Source Code** (Verilog)
   * **Custom Compiler** (Python)
   * **Testbenches** for Mass Verification
+  * **Excel: Systolic PE Array** for Matrix Multiplication Comparison (3×3)
   * **Constraints** for Arty S7-25
 
 ---
