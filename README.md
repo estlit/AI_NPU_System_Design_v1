@@ -53,7 +53,6 @@ To reproduce the results exactly as described in the book, we recommend the foll
   * **Python: MNIST 학습 스크립트**: 60,000개의 샘플을 활용한 전체 학습 코드입니다. NPU 하드웨어에 최적화된 가중치(Weights)와 바이어스(Biases)를 추출합니다.
   * **커스텀 컴파일러 (Python)**: 상위 수준 모델을 커스텀 ISA 기반의 기계어(`program.hex`)로 변환해주는 전용 스크립트입니다.
   * **RTL 소스 코드 (Verilog)**: 컨볼루션(Conv), 풀링(Pooling), 완전 연결 계층(FC), 아그맥스(Argmax) 등 CNN 구조의 핵심 블록을 하드웨어로 구현한 로직입니다. 
-    *(참고: 책에서 설명한 바와 같이, 본 설계는 최적화된 데이터 처리를 위해 시스톨릭 구조가 아닌 특화된 아키텍처를 사용합니다.)*
   * **Excel: Systolic_matrix**: PE 어레이(PE Array)의 동작 원리와 행렬 곱셈 로직을 시각적으로 파악할 수 있는 참조용 시트입니다.
   * **대량 검증용 테스트벤치 (Mass Verification)**: 100개 이상의 MNIST 샘플에 대해 추론 정확도를 자동으로 검증하는 자동화 환경입니다.
   * **전처리된 데이터 (100 Samples)**: RTL 시뮬레이션 및 하드웨어 검증을 위해 즉시 사용할 수 있도록 HEX 형식으로 변환된 MNIST 테스트 데이터셋입니다.
