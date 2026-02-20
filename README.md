@@ -23,6 +23,16 @@ To celebrate reaching **500+ views** and our **Amazon Top 4** ranking, we are re
 
 ---
 
+## 🚀 Coming Soon: Volume 2
+**"Advanced AI NPU System Design with Python and Verilog"**
+
+* **Target:** CIFAR-10 Color Image Recognition
+* **Key Strategy:** 4-NPU, 4-Cycle Resource Reuse & Ensemble Decision Unit (EDU)
+* **Status:** Development Completed. Amazon Publication Coming Soon!
+
+---
+---
+
 ## 🌟 Support this Project
 If this project helps your research or learning, please give it a ⭐ **Star**! Your support is a great motivation for updating more advanced NPU examples and maintaining this repository.
 
