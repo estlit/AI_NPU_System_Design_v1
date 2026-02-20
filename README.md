@@ -29,9 +29,7 @@ To celebrate reaching **500+ views** and our **Amazon Top 4** ranking, we are re
 * **Target:** CIFAR-10 Color Image Recognition
 * **Key Strategy:** 4-NPU, 4-Cycle Resource Reuse & Ensemble Decision Unit (EDU)
 * **Status:** Development Completed. Amazon Publication Coming Soon!
-![VideoProject1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6f658860-2598-4347-8c36-da1e28739cb7)
 
----
 ---
 
 ## 🌟 Support this Project
