@@ -12,9 +12,10 @@ Welcome to the official source code repository for **AI NPU System Design with P
 
 🏆 **Amazon Best Seller #3 in Compiler Design | #4 in Microprocessor Design | #5 in Microprocessors & System Design** ⭐ **5.0 out of 5 stars Rating** 
 ---
+
 ### **🎊 Milestone: 500+ Views & Free Sample Release!**
 To celebrate reaching **500+ views** and our **Amazon Top 3** ranking, we are releasing a **45-page Premium Sample** for the community!
-📖 **[Download Free Sample PDF (CH1, CH2 & Appendix A)](./AI%20NPU%20System%20sample_Roger_Kim.pdf)**
+###📖 **[Download Free Sample PDF (CH1, CH2 & Appendix A)](./AI%20NPU%20System%20sample_Roger_Kim.pdf)**
 * **Chapter 1 & 2:** Introduction to NPU Architecture & Design Philosophy.
 * **Appendix A:** Full Environment Setup Guide (Windows 11, Python 3.13, Vivado 2024.1).
 * *Learn why AI semiconductors are proven by bits, not concepts.*
