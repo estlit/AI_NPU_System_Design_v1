@@ -12,7 +12,50 @@ Welcome to the official source code repository for **AI NPU System Design with P
 
 🏆 **Amazon Best Seller #3 in Compiler Design | #4 in Microprocessor Design | #5 in Microprocessors & System Design** ⭐ **5.0 out of 5 stars Rating** 
 ---
+🎊 **Milestone: 500+ Views & Free Sample Release!**
 
+---
+
+### **🚀 Upcoming | Volume 2: Advanced AI NPU System Design**
+> **"Beyond MNIST: Conquering CIFAR-10 with Multi-Core Parallelism"**
+
+### **[Coming Soon] Preview the Spectacular Bit-Accuracy of the 4-Core NPU System**
+
+
+https://github.com/user-attachments/assets/e6a8d894-5b54-453e-abec-5f909283451f
+
+
+* *Witness 100% Golden Match (Pass=100/Fail=0) on the CIFAR-10 dataset using our Quad-Core parallel architecture.*
+
+* **Target:** CIFAR-10 Color Image Recognition
+* **Key Strategy:** 4-NPU, 4-Cycle Resource Reuse & Ensemble Decision Unit (EDU)
+* **Status:** Development Completed. Amazon Publication Coming Soon!
+* **Full Packages:** RTL Source, Testbench, and Python models will be included.
+
+---
+
+### **✅ Proven by Bits: Volume 1 Verification Showcase**
+*"AI semiconductors are proven by bits, not concepts."*
+
+#### **1. The Digital Pulse: Bit-by-Bit Hardware Verification**
+
+https://github.com/user-attachments/assets/b1b286b3-3dbf-42db-86bb-e8718a3217ac
+
+
+
+*Every clock, every bit is under your control. Observe the perfect synchronization between the Python Golden Model and RTL Logic.*
+
+#### **2. Mass Reliability: 100-Sample Automated 'Golden Match'**
+
+
+https://github.com/user-attachments/assets/008cb01d-e19d-40c3-a160-810227cb5afd
+
+*100 samples processed with zero error, proving the robustness and scalability of the NPU architecture.*
+
+---
+
+### **📖 Free Resources**
+To celebrate reaching **500+ views** and our **Amazon Top 3** ranking, we are releasing a **45-page Premium Sample** for the community!
 ### 🎊 **Milestone: 500+ Views & Free Sample Release!**
 To celebrate reaching **500+ views** and our **Amazon Top 4** ranking, we are releasing a **45-page Premium Sample** for the community!
 
@@ -23,15 +66,6 @@ To celebrate reaching **500+ views** and our **Amazon Top 4** ranking, we are re
 
 ---
 
-## 🚀 Coming Soon: Volume 2
-**"Advanced AI NPU System Design with Python and Verilog"**
-
-* **Target:** CIFAR-10 Color Image Recognition
-* **Key Strategy:** 4-NPU, 4-Cycle Resource Reuse & Ensemble Decision Unit (EDU)
-* **Status:** Development Completed. Amazon Publication Coming Soon!
-* **Full Packages (RTL Source, Testbench, Python)** will be included
-
----
 
 ## 🌟 Support this Project
 If this project helps your research or learning, please give it a ⭐ **Star**! Your support is a great motivation for updating more advanced NPU examples and maintaining this repository.
