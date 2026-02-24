@@ -10,7 +10,7 @@
 Welcome to the official source code repository for **AI NPU System Design with Python and Verilog**. This project provides a complete, from-scratch guide to building an AI Neural Processing Unit (NPU), covering everything from Custom ISA and Compiler design to RTL and FPGA implementation.
 
 
-🏆 **Amazon Best Seller #3 in Compiler Design | #4 in Microprocessor Design | #5 in Microprocessors & System Design** ⭐ **5.0 out of 5 stars Rating** 
+🏆 **Amazon Best Seller #2 in Microprocessor Design | #2 in Compiler Design | #5 in Microprocessors & System Design** ⭐ **5.0 out of 5 stars Rating** 
 ---
 
 [Available on Amazon:  AI NPU System Design with Python and Verilog](https://www.amazon.com/System-Design-Python-Verilog-Implementation-ebook/dp/B0GLQVJWMK/ref=sr_1_1_sspa?crid=31P3PUU4BB4YK&dib=eyJ2IjoiMSJ9.kWSm1cC5MV4e9bm7vrP5cVzlXCeX_RzrZepGkgUAQlU7T3_oI568VPauzKc-HRrrItWP0KgMMcQ4tFLTn3T9DL8YQlsdqBcwAGdqGQEE_P4qq41c-SJyOD7vZ-KjklhvUBuW9uRnBNE20SIBf-tTSNPhvSoIbpU-eO-Ua8YLJ5jkI74iXck8mD7Jq6Lp-KVZK_Vc8Xk2dqvQjb0DUjJerlUZENnr79CXlPb3A0bdFao.gqGt-kVdqwqRp310WNOPwHEBZhglXzrXogwbjjMsTvQ&dib_tag=se&keywords=ai+npu+system+design&qid=1770518537&sprefix=%2Caps%2C292&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
