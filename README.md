@@ -24,7 +24,7 @@ To celebrate reaching **500+ views** and our **Amazon Top 3** ranking, we are re
 * *Learn why AI semiconductors are proven by bits, not concepts.*
 ---
 ### **🚀 Upcoming | Volume 2: Advanced AI NPU System Design**
-> **[Coming Soon] Mastering Systolic Arrays & Multi-Core Parallelism"**
+### **[Coming Soon] Mastering Systolic Arrays & Multi-Core Parallelism"**
 
 Volume 2 moves beyond the fundamentals, implementing high-performance architectures in real hardware (RTL). Experience the pinnacle of NPU design, from 13x10 Systolic Arrays to Quad-Core parallel systems.
 
