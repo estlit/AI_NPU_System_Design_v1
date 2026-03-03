@@ -24,6 +24,22 @@ To celebrate reaching **500+ views** and our **Amazon Top 3** ranking, we are re
 * *Learn why AI semiconductors are proven by bits, not concepts.*
 ---
 ### **🚀 Upcoming | Volume 2: Advanced AI NPU System Design**
+> **[Coming Soon] Mastering Systolic Arrays & Multi-Core Parallelism"**
+
+Volume 2 moves beyond the fundamentals, implementing high-performance architectures in real hardware (RTL). Experience the pinnacle of NPU design, from 13x10 Systolic Arrays to Quad-Core parallel systems.
+
+### 🎬 Witness the 'Heartbeat' of the 13x10 Systolic Array**
+Observe how a Systolic Array—often discussed only in theory—actually "beats" within real hardware. This section unveils the practical design and bit-level verification of a **13x10 Systolic Array** optimized for **Fully Connected Layer (FCL)** operations.
+
+
+
+https://github.com/user-attachments/assets/5c5eda8c-0dcb-4138-9236-8102977f6457
+
+
+* **Production-Scale Design:** A real-world 13x10 Processing Element (PE) array implementation optimized for MNIST and CIFAR-10 datasets.
+* **Excel-to-RTL Sync:** Witness spectacular **Bit-Accuracy** where the Excel Golden Model's "pulsing" trace matches the Vivado RTL simulation with 100% precision.
+* **Wavefront Visualization:** Visual proof of the unique Systolic "Wavefront" where data flows seamlessly between neighboring PEs in a synchronized pulse.
+
 > **"Beyond MNIST: Conquering CIFAR-10 with Multi-Core Parallelism"**
 
 ### **[Coming Soon] Preview the Spectacular Bit-Accuracy of the 4-Core NPU System**
