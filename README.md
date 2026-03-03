@@ -31,10 +31,7 @@ Volume 2 moves beyond the fundamentals, implementing high-performance architectu
 ### 🎬 Witness the 'Heartbeat' of the 13x10 Systolic Array**
 Observe how a Systolic Array—often discussed only in theory—actually "beats" within real hardware. This section unveils the practical design and bit-level verification of a **13x10 Systolic Array** optimized for **Fully Connected Layer (FCL)** operations.
 
-
-
-https://github.com/user-attachments/assets/5c5eda8c-0dcb-4138-9236-8102977f6457
-
+https://github.com/user-attachments/assets/6133d343-c929-4264-b2d7-c68f2ee0b053
 
 * **Production-Scale Design:** A real-world 13x10 Processing Element (PE) array implementation optimized for MNIST and CIFAR-10 datasets.
 * **Excel-to-RTL Sync:** Witness spectacular **Bit-Accuracy** where the Excel Golden Model's "pulsing" trace matches the Vivado RTL simulation with 100% precision.
