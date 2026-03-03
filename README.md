@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/6133d343-c929-4264-b2d7-c68f2ee0b053
 * **Excel-to-RTL Sync:** Witness spectacular **Bit-Accuracy** where the Excel Golden Model's "pulsing" trace matches the Vivado RTL simulation with 100% precision.
 * **Wavefront Visualization:** Visual proof of the unique Systolic "Wavefront" where data flows seamlessly between neighboring PEs in a synchronized pulse.
 
-> **"Beyond MNIST: Conquering CIFAR-10 with Multi-Core Parallelism"**
+### **"Beyond MNIST: Conquering CIFAR-10 with Multi-Core Parallelism"**
 
 ### **[Coming Soon] Preview the Spectacular Bit-Accuracy of the 4-Core NPU System**
 
